@@ -11,7 +11,7 @@ import android.widget.RemoteViews;
 public class ClockUtils
 {
 	private static float Time24TextSize = 56;
-	private static float Time12TextSize = 36;
+	private static float Time12TextSize = 34;
 	private static final String SetTextSizeMethod = "setTextSize";
 
 	public static void updateClock(Context context, AppWidgetManager appWidgetManager, int[] appWidgetIds)
