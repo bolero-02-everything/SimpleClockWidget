@@ -87,7 +87,7 @@ public class ClockUpdateService extends Service
 
 		ClockUtils.updateClock(this, mgr, ids);
 
-		Log.d(Tag, "onHandleIntent");
+//		Log.d(Tag, "onHandleIntent");
 	}
 
 	@Override
